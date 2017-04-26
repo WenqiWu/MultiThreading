@@ -1,0 +1,13 @@
+package com.wwq.cloud.CurrentThread;
+
+/**
+ * p18
+ */
+public class Run {
+    public static void main(String[] args) {
+        CountOperate c = new CountOperate();
+        Thread t1 = new Thread(c);
+        t1.setName("A");
+        t1.start();
+    }
+}
