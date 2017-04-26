@@ -1,2 +1,3 @@
-# MultiThreading
-Study Code for MultiThreading 
+### 多线程编程学习代码
+　　最近在阅读《Java多线程编程核心技术》一书。  
+　　本项目记录了在学习过程中一些经典代码或者感觉有必要实际运行的代码。
